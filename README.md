@@ -1,4 +1,5 @@
 # Stratus VR
+![alt text](logo.png)
 
 Thank you for your interest in Stratus! We're hard at work building out our platform, but we wanted to invite a select few users to be the some of the first to try it out. 
 
