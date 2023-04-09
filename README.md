@@ -27,7 +27,7 @@ Please note that this beta test is an early-stage build of our platform and may 
 5. Go to your running Stratus desktop application
 6. Install the Stratus VR application to your headset my clicking the <code>Install Application</code> button
 7. Type the IP address from the website into the text box, then click the <code>Push to Headset</code> button
-8. Launch the CloudXR application on your headset (It will be in the "Unidentified Developers" section of your library)
+8. Launch the CloudXR application on your headset (It will be in the "Unidentified Developers" section of your library) <code>NOTE: Please wait at least 5 minutes after launching your Stratus session before launching the VR application</code>
 9. Please note, the application will likely crash on its first launch, please try launching the application again to connect to your Stratus session
 10. Once connected, you will see the SteamVR 'Void'
 11. While in the 'Void', open the SteamVR menu (left menu button)
