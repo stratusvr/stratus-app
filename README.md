@@ -6,7 +6,7 @@ Please note that this beta test is an early-stage build of our platform and may 
 
 ## Pre-requisites:
 1. A Meta Quest or Meta Quest 2 Headset (and a USB-C cord)
-2. A PC/Mac/Linux Computer installed with Python and Android Device Bridge
+2. A PC/Mac/Linux Computer installed with Python and Android Device Bridge (https://www.vrtourviewer.com/docs/adb/)
 3. An internet speed of 50+ Mbps 
 
 ## Installation Instructions:
@@ -22,7 +22,7 @@ Please note that this beta test is an early-stage build of our platform and may 
 1. Navigate to https://main.d3vh7zst60d70i.amplifyapp.com/
 2. Sign up for an account, login, and proceed to the dashboard
 3. Start your Stratus session by clicking the <code>Launch Session</code> button
-4. Make note of the IP address you are given (it can be retrieved with the <code>Retrieve IP Address</code> button
+4. Make note of the IP address you are given (it can be retrieved with the <code>Retrieve IP Address</code> button)
 5. Go to your running Stratus desktop application
 6. Install the Stratus VR application to your headset my clicking the <code>Install Application</code> button
 7. Type the IP address from the website into the text box, then click the <code>Push to Headset</code> button
