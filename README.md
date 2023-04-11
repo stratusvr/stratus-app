@@ -6,7 +6,7 @@ Thank you for your interest in Stratus! We're hard at work building out our plat
 Please note that this beta test is an early-stage build of our platform and may not reflect what the final product will look like or function. You may encounter bugs or technical issues during this beta test, this is to be expected. We ask that you let us know of any issues you encounter through this form. 
 
 ## Prerequisites
-1. A Meta Quest or Meta Quest 2 Headset (with a USB-C cord)
+1. A Meta Quest or Meta Quest 2 Headset with developer mode enabled (https://developer.oculus.com/documentation/native/android/mobile-device-setup/)
 2. A PC/Mac/Linux computer installed with Python and Android Device Bridge (https://www.vrtourviewer.com/docs/adb/)
 3. An internet speed of 50+ Mbps
 
