@@ -17,7 +17,7 @@ Please note that this beta test is an early-stage build of our platform and may 
 4. Run the application: <code>python main.py</code>
 
 ## Usage Instructions
-1. Visit https://main.d3vh7zst60d70i.amplifyapp.com/ (Note: Please disable your adblocker for this site. We don't serve ads, but adblockers can interfer with some of our backend components for configuring your session).
+1. Visit https://main.d3vh7zst60d70i.amplifyapp.com/ <code>NOTE: Please disable your adblocker for this site. We don't serve ads, but adblockers can interfer with some of our backend components for configuring your session.</code>
 2. Sign up for an account, log in, and proceed to the dashboard.
 3. Start your Stratus session by clicking the <code>Launch Session</code> button.
 4. Note the IP address provided (you can retrieve it using the <code>Retrieve IP Address</code> button).
