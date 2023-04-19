@@ -18,6 +18,8 @@ https://forms.gle/PSu9GegbWaQs818G7
 3. Enter the directory and install the required packages: <code>pip install -r requirements.txt</code>
 4. Run the application: <code>python main.py</code>
 
+NOTE: If you're unfamiliar with using your command line, please see [these extra instructions](extra-instructions.md)
+
 ## Usage Instructions
 1. Visit https://main.d3vh7zst60d70i.amplifyapp.com/ <code>NOTE: Please disable your adblocker for this site. We don't serve ads, but adblockers can interfer with some of our backend components for configuring your session.</code>
 2. Sign up for an account, log in, and proceed to the dashboard.
