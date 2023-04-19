@@ -1,3 +1,4 @@
+# In-depth Instructions for Setting up the Stratus Desktop App
 ## Installing Python and Git
 
 Before starting, make sure you have Python and Git installed on your computer. If you don't, follow the instructions below to install them:
@@ -74,4 +75,4 @@ Now that Python and Git are installed, follow these steps to run the application
 
 <code>python3 main.py</code>
 
-The application should now be running. If you encounter any issues, make sure you have the latest versions of Python and Git installed, and carefully review the steps above.
+The application should now be running, you can return to the main page and continuing following the instructions. If you encounter any issues, make sure you have the latest versions of Python and Git installed, and carefully review the steps above. If problems persist, fill out this form with the issue you are facing: https://forms.gle/PSu9GegbWaQs818G7
