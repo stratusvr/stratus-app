@@ -21,7 +21,7 @@ NOTE: If you're unfamiliar with using your command line, please see [these extra
 4. Run the application: <code>python main.py</code>
 
 ## Usage Instructions
-1. Visit https://dev.d2614i0krkpcs2.amplifyapp.com <code>NOTE: Please disable your adblocker for this site. We don't serve ads, but adblockers can interfer with some of our backend components for configuring your session.</code>
+1. Visit https://app.stratusvr.com <code>NOTE: Please disable your adblocker for this site. We don't serve ads, but adblockers can interfer with some of our backend components for configuring your session.</code>
 2. Sign up for an account, log in, and proceed to the dashboard.
 3. Start your Stratus session by clicking the <code>Launch Session</code> button. <code>NOTE: If the Stratus logo spins for more than 30 seconds, try refreshing the page</code>
 4. Note the IP address provided (you can retrieve it using the <code>Retrieve IP Address</code> button).
